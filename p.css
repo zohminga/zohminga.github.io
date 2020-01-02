@@ -13,12 +13,13 @@ background-repeat: no-repeat;
 	float: left;
 	display: inline-block;
 	color: black;
+	height: 78px;
 		font-size: 4vw;
 		width: 807px;
 
 	font-family: 'Lobster', cursive;
-margin-top: 300px;
-    margin-left: 20px;
+margin-top: 26%;
+    margin-left: 2%;
 }
 
 
@@ -54,8 +55,9 @@ color: white;
 .d2{
 	float: left;
 	
-	margin-top: 386px;
-    margin-left: -676px;
+	display: inline-block;
+    margin-top: 32%;
+    margin-left: -76%;
     width: 156px;
     height: 51px;
 }
